@@ -11,7 +11,7 @@ export default function PlaygroundPage() {
       page
       <Accordion type="single" collapsible>
         <AccordionItem value="item-1">
-          <AccordionTrigger>Is it accessible?</AccordionTrigger>
+          <AccordionTrigger>Is it accessib?</AccordionTrigger>
           <AccordionContent>
             Yes. It adheres to the WAI-ARIA design pattern.
           </AccordionContent>
